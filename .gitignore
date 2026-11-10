@@ -1,0 +1,11 @@
+# Built output (rebuild with: bash native/build_app.sh)
+Vanta.app/
+vanta.html
+
+# Never commit personal trading data
+journal*.json
+images/
+backups/
+
+.DS_Store
+*.log
